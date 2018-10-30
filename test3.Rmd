@@ -10,5 +10,5 @@ I'm going to add two numbers
 ``` {r echo = FALSE}
 x <- 2+2
 x
-lot(cars,$speed, cars$distance)
+plot(cars$speed, cars$distance)
 ```
